@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/legit",
+      "destination": "/legit.html"
+    },
+    {
+      "source": "/thai",
+      "destination": "/thai.html"
+    }
+  ]
+}
